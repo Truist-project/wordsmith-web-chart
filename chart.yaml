@@ -1,6 +1,0 @@
-apiVersion: v2
-name: word-smith-web
-description: A Helm chart for word-smith-web
-type: application
-version: 0.1.0
-appVersion: "1.16.0"
